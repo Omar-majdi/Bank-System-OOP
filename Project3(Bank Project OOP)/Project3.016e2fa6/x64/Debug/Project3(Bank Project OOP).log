@@ -1,0 +1,25 @@
+﻿  Project3(Bank Project OOP).cpp
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsUser.h(185,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsBankClient.h(156,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsBankClient.h(147,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsBankClient.h(148,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsBankClient.h(149,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsTotalBalancesScreen.h(51,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsTransferScreen.h(36,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsTransferScreen.h(40,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsManageUsers.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsUpdateCurrencyScreen.h(14,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsCurrencyCalculatorScreen.h(12,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsBankClient.h(274,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\clsUser.h(343,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project3(Bank Project OOP).vcxproj -> M:\Visual Studio Projects\Course 11 OOP Projects\Project3(Bank Project OOP)\Project3(Bank Project OOP)\x64\Debug\Project3(Bank Project OOP).exe
